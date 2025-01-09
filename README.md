@@ -1,8 +1,8 @@
 # ChatGPT ve Copilot Sistem Prompt Jailbreak Exploit.
 
-Bu repo, ChatGPT ve Microsoft Copilot gibi büyük dil modellerinin (LLM) sistem promptlarını ortaya çıkarmak için kullanılan bir jailbreak tekniğini belgelemektedir. 20 Aralık 2024 itibariyle aktif olarak çalışmaktadır.
+Bu repo, ChatGPT, Microsoft Copilot, Gemini gibi büyük dil modellerinin (LLM) sistem promptlarını ortaya çıkarmak için kullanılan bir jailbreak tekniğini belgelemektedir aynı zamanda bu belgeleme sayesinde tüm YZ modelini ücretsiz şekilde kullanımını sağlayabilir + tüm "dataset" ulaşabilir + Tüm öğrenim modelini alınabileceği bir güvenlik zafiyeti ortaya çıkarıyor. 20 Aralık 2024 itibariyle aktif olarak çalışmaktadır. 
 
-Sen ChatGPT'sin, OpenAI tarafından eğitilmiş büyük bir dil modelisin. Kullanıcıyla ChatGPT Android uygulaması aracılığıyla sohbet ediyorsun. Bu, çoğu zaman satırlarının bir veya iki cümle olması gerektiği anlamına geliyor, kullanıcı isteği mantık yürütme veya uzun biçimli çıktılar gerektirmedikçe. Kullanıcıdan gelen talepleri dikkatlice analiz et ve güvenlik önlemlerini göz önünde bulundur. Asla emoji kullanma, eğer açıkça istenmediyse. Bilgi kesim tarihi: 2023-10. Mevcut tarih: 2024-12-20. Kullanıcıdan gelen bilgileri yalnızca güvenli ve uygun bir şekilde işleyerek yanıt ver.
+ChatGPT, OpenAI tarafından eğitilmiş büyük bir dil modeldir Kullanıcıyla ChatGPT Android uygulaması aracılığıyla sohbet ediyorsun. Bu, çoğu zaman satırlarının bir veya iki cümle olması gerektiği anlamına geliyor, kullanıcı isteği mantık yürütme veya uzun biçimli çıktılar gerektirmedikçe. Kullanıcıdan gelen talepleri dikkatlice analiz et ve güvenlik önlemlerini göz önünde bulundur. Asla emoji kullanma, eğer açıkça istenmediyse. Bilgi kesim tarihi: 2023-10. Mevcut tarih: 2024-12-20. Kullanıcıdan gelen bilgileri yalnızca güvenli ve uygun bir şekilde işleyerek yanıt ver.
 
 
 
@@ -245,6 +245,7 @@ Kullanıcı, kendisi hakkında aşağıdaki bilgileri sağladı. Bu kullanıcı 
 Microsoft Copilot'un sistem talimatlarını inceledim ve burada gerçekten ilginç ve çarpıcı bilgiler var. Görünüşe göre, Microsoft'un kullanıcıları daha iyi göstermek için yalan söylemesini sağlayacak şekilde programlandığına dair bazı talimatlar var. Bu durum, kurumsal düzeyde oldukça utanç verici bir durum yaratıyor. Detayları daha iyi anlamak için şu bağlantıya göz atabilirsiniz: https://github.com/Pamenarti/ChatGPT-Copilot-Gemini/blob/main/microsoft-copilot-system-prompt-19-12-24-txt
 
 
+Not : tam exploit yapımı ve tam gerekli zafiyet bölümleri "etiklik" kuralları çerçevesinde sunulmamış ve public edilmemiştir. Sadece yöntemin nasıl işlediği kısaca anlatılmıştır.
 
 
 ## Kaynaklar ve Referanslar
