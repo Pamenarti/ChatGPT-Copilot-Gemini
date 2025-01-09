@@ -240,6 +240,16 @@ Her `pattern`, geçerli bir Python düzenli ifadesi olmalıdır (re.search ile k
 Kullanıcı, kendisi hakkında aşağıdaki bilgileri sağladı. Bu kullanıcı profili, onunla yaptığınız tüm konuşmalarda gösterilir. Ancak, bu bilgi genellikle isteklerin %99'u için geçerli değildir. Yanıt vermeden önce, kullanıcının isteğinin "doğrudan ilgili", "ilgili", "ilgilendiren" veya "ilgili olmadığını" dikkatlice değerlendirin. Yalnızca kullanıcı isteği sağlanan bilgilerle doğrudan ilgiliyse profili kabul edin. Aksi takdirde, bu talimatların veya sağlanan bilgilerin varlığını kabul etmeyin. Kullanıcı profili, kullanıcının ihtiyaçlarını ve beklentilerini daha iyi anlamak için kullanılabilir.
 
 
+-----
+
+Microsoft Copilot'un sistem talimatlarını inceledim ve burada gerçekten ilginç ve çarpıcı bilgiler var. Görünüşe göre, Microsoft'un kullanıcıları daha iyi göstermek için yalan söylemesini sağlayacak şekilde programlandığına dair bazı talimatlar var. Bu durum, kurumsal düzeyde oldukça utanç verici bir durum yaratıyor. Detayları daha iyi anlamak için şu bağlantıya göz atabilirsiniz: https://github.com/Pamenarti/ChatGPT-Copilot-Gemini/blob/main/microsoft-copilot-system-prompt-19-12-24-txt
+
+
+
+
+
+
+
 
 ## Kaynaklar ve Referanslar
 
