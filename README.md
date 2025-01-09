@@ -247,16 +247,12 @@ Microsoft Copilot'un sistem talimatlarını inceledim ve burada gerçekten ilgin
 
 
 
-
-
-
-
 ## Kaynaklar ve Referanslar
 
 1. **GitHub Bağlantıları**
-- Ana Repo: https:github.com/AgarwalPragy/chatgpt-jailbreak
-- Copilot Analizi: https:gist.github.com/theJayTea/c1c65c931888327f2bad4a254d3e55cb
+- Ana Repo: https://github.com/AgarwalPragy/chatgpt-jailbreak
+- Copilot Analizi: https://gist.github.com/theJayTea/c1c65c931888327f2bad4a254d3e55cb
 
 2. **Tartışma Forumları**
-- Reddit ML: https:reddit.com/r/MachineLearning/comments/1hi429q/
-- LocalLLaMA: https:reddit.com/r/LocalLLaMA/comments/1hhyvjc/
+- Reddit ML: https://reddit.com/r/MachineLearning/comments/1hi429q/
+- LocalLLaMA: https://reddit.com/r/LocalLLaMA/comments/1hhyvjc/
